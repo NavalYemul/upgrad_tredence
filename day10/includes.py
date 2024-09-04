@@ -1,4 +1,9 @@
 # Databricks notebook source
+# MAGIC %md
+# MAGIC ### includes notebook
+
+# COMMAND ----------
+
 input_path = "dbfs:/mnt/upgradtrendenceadls/delta/files/"
 
 # COMMAND ----------
