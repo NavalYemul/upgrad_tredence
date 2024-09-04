@@ -18,7 +18,9 @@
 # MAGIC %run /Workspace/Users/naval_1724213487060@npupgradassessment.onmicrosoft.com/day8/includes
 
 # COMMAND ----------
+# changed this schema to pyspark schema
 
+users_schema_pyspark= StructType([])
 users_schema="Id int,Name string, Gender string ,Salary int,Country string, Date string"
 
 # COMMAND ----------
